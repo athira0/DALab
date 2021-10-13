@@ -1,1 +1,1 @@
-# DALab
+# Data Analytics Lab
